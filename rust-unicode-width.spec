@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.1.8
-Release:        1
+Release:        2
 Summary:        Determine displayed width of `char` and `str` types
 
 # Upstream license specification: MIT/Apache-2.0
